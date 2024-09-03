@@ -1,0 +1,100 @@
+      <Stack.Navigator>
+        <Stack.Screen
+          name="Splash"
+          component={Splash}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name="Home"
+          component={LoogBookTabNavigator}
+          options={{
+            // headerTitle: 'KHADIM ASH SHAFEE',// Set the header title
+
+            headerTitleAlign: 'center',
+            headerShown: false,
+            // header: (props) => <CustomHeader {...props} />, // Center the header title
+          }}
+        />
+        <Stack.Screen
+          name="Cure"
+          component={Cure}
+          options={{
+            headerTitle: 'Cure',
+            headerTitleAlign: 'center',
+            headerTransparent: true,
+            headerTintColor: 'white',
+          }}
+        />
+        <Stack.Screen
+          name="Solution"
+          component={Solution}
+          options={{
+            headerTitle: 'Cure',
+            headerTitleAlign: 'center',
+            headerTransparent: true,
+            headerTintColor: 'white',
+          }}
+        />
+
+        <Stack.Screen
+          name="Names"
+          component={Names}
+          options={{
+            headerTitle: '99 Names of Allah',
+            headerTitleAlign: 'center',
+            headerTransparent: true,
+            headerTintColor: 'white',
+          }}
+        />
+        <Stack.Screen
+          name="Duas"
+          component={Dua}
+          options={{
+            headerTitle: 'Masnoon Dua',
+            headerTitleAlign: 'center',
+            headerTransparent: true,
+            headerTintColor: 'white',
+          }}
+        />
+        <Stack.Screen
+          name="Search"
+          component={Search}
+          options={{
+            headerTitle: 'Search',
+            headerTitleAlign: 'center',
+            headerTransparent: true,
+            headerTintColor: 'white',
+          }}
+        />
+        <Stack.Screen
+          name="Health"
+          component={Health}
+          options={{
+            headerTitle: 'Health Tips & Articles',
+            headerTitleAlign: 'center',
+            headerTransparent: true,
+            headerTintColor: 'white',
+          }}
+        />
+        {/* <Stack.Screen name="AppDrawer" component={AppDrawer} options={{ headerShown: false }} /> */}
+        <Stack.Screen
+          name="Remedy"
+          component={Remedy}
+          options={{
+            headerTitle: 'Diseases & Remedy',
+            headerTitleAlign: 'center',
+            headerTransparent: true,
+            headerTintColor: 'white',
+          }}
+        />
+        <Stack.Screen
+          name="MasnonDua"
+          component={MasnonDua}
+          options={{
+            headerTitle: ' Dua',
+            headerTitleAlign: 'center',
+            headerTransparent: true,
+            headerTintColor: 'white',
+          }}
+        />
+      </Stack.Navigator>

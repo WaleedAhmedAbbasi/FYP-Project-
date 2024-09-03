@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "66253e16fcdedfd50f6c4f60"
+  },
+  "name": "Before eating",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662546fafcdedfd50f6c4f66"
+  },
+  "name": "Upon waking up",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625470afcdedfd50f6c4f68"
+  },
+  "name": "When leaving home",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625471efcdedfd50f6c4f6a"
+  },
+  "name": "When entering home",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625472efcdedfd50f6c4f6c"
+  },
+  "name": "Before entering the restroom",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625473ffcdedfd50f6c4f6e"
+  },
+  "name": "After leaving the restroom",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6625475ffcdedfd50f6c4f70"
+  },
+  "name": "When starting a journey",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66254799fcdedfd50f6c4f72"
+  },
+  "name": "After eating",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662547c4fcdedfd50f6c4f74"
+  },
+  "name": "Before sleeping",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66254db90429d2b63cdcf095"
+  },
+  "name": "When feeling distress",
+  "__v": 0
+}]

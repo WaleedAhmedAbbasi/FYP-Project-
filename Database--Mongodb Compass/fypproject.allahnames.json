@@ -1,0 +1,567 @@
+[{
+  "_id": {
+    "$oid": "6611350cfe636c41c3be6dac"
+  },
+  "NameEng": "AR RAHMAN",
+  "NameArabic": "ٱلْرَّحْمَـانُ",
+  "Description": "The Most Merciful, whose mercy encompasses all aspects of existence, providing sustenance and guidance to all creation.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113526fe636c41c3be6dae"
+  },
+  "NameEng": "AR RAHEEM",
+  "NameArabic": "ٱلرَّحِيمُ",
+  "Description": "The Most Compassionate, whose compassion is infinite and constant, particularly towards those who seek His guidance and forgiveness.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113531fe636c41c3be6db0"
+  },
+  "NameEng": "AL MALIK",
+  "NameArabic": "ٱلْمَلِكُ",
+  "Description": "The Absolute Ruler, possessing complete authority and control over all affairs, sovereign over the universe.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113540fe636c41c3be6db2"
+  },
+  "NameEng": "AL QUDDUS",
+  "NameArabic": "ٱلْقُدُّوسُ",
+  "Description": "The Pure One, absolutely pure and free from any imperfections or flaws, sanctified and holy.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611354afe636c41c3be6db4"
+  },
+  "NameEng": "AS SALAM",
+  "NameArabic": "ٱلسَّلَامُ",
+  "Description": "The Source of Peace, providing tranquility to those who seek it in submission to His will, the ultimate source of peace.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611355dfe636c41c3be6db6"
+  },
+  "NameEng": "AL MU’MIN",
+  "NameArabic": "ٱلْمُؤْمِنُ",
+  "Description": "The Bestower of Faith, granting faith and security to believers, ensuring their hearts are tranquil and steadfast.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611356dfe636c41c3be6db8"
+  },
+  "NameEng": "AL MUHAYMIN",
+  "NameArabic": "ٱلْمُهَيْمِنُ",
+  "Description": "The Guardian, protector and guardian of all, overseeing everything with perfect knowledge and wisdom.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113577fe636c41c3be6dba"
+  },
+  "NameEng": "AL AZIZ",
+  "NameArabic": "ٱلْعَزِيزُ",
+  "Description": "The Almighty, mighty and powerful, His strength and authority are unmatched, exalted in power.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611358cfe636c41c3be6dbc"
+  },
+  "NameEng": "AL JABBAR",
+  "NameArabic": "ٱلْجَبَّارُ",
+  "Description": "The Compeller, mends what is broken, heals what is sick, and fills what is empty, enforcing His will with irresistible force.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661135a4fe636c41c3be6dbe"
+  },
+  "NameEng": "AL MUTAKABBIR",
+  "NameArabic": "ٱلْمُتَكَبِّرُ",
+  "Description": "The Supreme, exalted and supreme, free from all imperfections and deficiencies, the ultimate in greatness.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661135aefe636c41c3be6dc0"
+  },
+  "NameEng": "AL KHALIQ",
+  "NameArabic": "ٱلْخَالِقُ",
+  "Description": "The Creator, bringing existence from nothingness, creating everything according to His will.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661135bffe636c41c3be6dc2"
+  },
+  "NameEng": "AL BARI",
+  "NameArabic": "ٱلْبَارِئُ",
+  "Description": "The Evolver, fashioner of all things, shaping them in perfection according to His will, the originator and designer.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661135ccfe636c41c3be6dc4"
+  },
+  "NameEng": "AL MUSAWWIR",
+  "NameArabic": "ٱلْمُصَوِّرُ",
+  "Description": "The Fashioner, designer and shaper of all forms, giving each creation its unique appearance and features.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661135d6fe636c41c3be6dc6"
+  },
+  "NameEng": "AL GHAFUR",
+  "NameArabic": "ٱلْغَفُورُ",
+  "Description": "The Forgiving, forgiving all sins, offering mercy and redemption to those who repent and seek His forgiveness.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661135e2fe636c41c3be6dc8"
+  },
+  "NameEng": "AL QAHAR",
+  "NameArabic": "ٱلْقَهَّارُ",
+  "Description": "The Subduer, has the power to subdue and overcome all things, enforcing His will with irresistible force.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661135effe636c41c3be6dca"
+  },
+  "NameEng": "AL WAHHAB",
+  "NameArabic": "ٱلْوَهَّابُ",
+  "Description": "The Bestower, giver of gifts and blessings, bestowing His favors upon whom He wills, the ultimate giver.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661135f8fe636c41c3be6dcc"
+  },
+  "NameEng": "AR RAZZAQ",
+  "NameArabic": "ٱلرَّزَّاقُ",
+  "Description": "The Provider, provider of sustenance to all creatures, ensuring their needs are met, the ultimate sustainer.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113602fe636c41c3be6dce"
+  },
+  "NameEng": "AL FATTAH",
+  "NameArabic": "ٱلْفَتَّاحُ",
+  "Description": "The Opener, opens doors of opportunity and solutions to problems, guiding His servants to success, the ultimate opener.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611360dfe636c41c3be6dd0"
+  },
+  "NameEng": "AL ALIM",
+  "NameArabic": "ٱلْعَلِيمُ",
+  "Description": "The All-Knowing, possessor of all knowledge, aware of the past, present, and future, the all-knowing.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113617fe636c41c3be6dd2"
+  },
+  "NameEng": "AL QABID",
+  "NameArabic": "ٱلْقَابِضُ",
+  "Description": "The Constrictor, withholds and constricts, controlling all aspects of life and death, the one who withholds.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113627fe636c41c3be6dd4"
+  },
+  "NameEng": "AL BASIT",
+  "NameArabic": "ٱلْبَاسِطُ",
+  "Description": "The Expander, opens and expands, granting abundance and ease to whom He wills, the ultimate expander.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113635fe636c41c3be6dd6"
+  },
+  "NameEng": "AL KHAFIDH",
+  "NameArabic": "ٱلْخَافِضُ",
+  "Description": "The Abaser, lowers and debases, humbling those who exalt themselves above His command, the ultimate abaser.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113641fe636c41c3be6dd8"
+  },
+  "NameEng": "AR RAFI",
+  "NameArabic": "ٱلرَّافِعُ",
+  "Description": "The Exalter, raises and elevates, exalting those who humble themselves before Him, the ultimate exalter.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611364afe636c41c3be6dda"
+  },
+  "NameEng": "AL MU’IZZ",
+  "NameArabic": "ٱلْمُعِزُّ",
+  "Description": "The Bestower of Honor, grants honor and dignity to whom He wills, elevating them in status and rank.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113657fe636c41c3be6ddc"
+  },
+  "NameEng": "AL MUDHIL",
+  "NameArabic": "ٱلْمُذِلُّ",
+  "Description": "The Dishonorer, humiliates and debases, lowering those who reject His guidance and commands.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113666fe636c41c3be6dde"
+  },
+  "NameEng": "AS SAMI",
+  "NameArabic": "ٱلسَّمِيعُ",
+  "Description": "The All-Hearing, hears all sounds and voices, whether whispered or proclaimed, the all-hearing.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113671fe636c41c3be6de0"
+  },
+  "NameEng": "AL BASIR",
+  "NameArabic": "ٱلْبَصِيرُ",
+  "Description": "The All-Seeing, sees all things, whether apparent or hidden, the all-seeing.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611367dfe636c41c3be6de2"
+  },
+  "NameEng": "AL HAKAM",
+  "NameArabic": "ٱلْحَكَمُ",
+  "Description": "The Judge, ultimate arbiter of justice, ruling with perfect wisdom and fairness, the ultimate judge.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113688fe636c41c3be6de4"
+  },
+  "NameEng": "AL ADL",
+  "NameArabic": "ٱلْعَدْلُ",
+  "Description": "The Utterly Just, acts with perfect justice and fairness, ensuring no one is wronged or oppressed.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113695fe636c41c3be6de6"
+  },
+  "NameEng": "AL LATIF",
+  "NameArabic": "ٱللَّطِيفُ",
+  "Description": "The Subtle One, aware of the finest details and nuances, providing for all in ways that are gentle and kind.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661136a3fe636c41c3be6de8"
+  },
+  "NameEng": "AL KHABIR",
+  "NameArabic": "ٱلْخَبِيرُ",
+  "Description": "The All-Aware, fully aware of all things, whether open or hidden, the all-knowing.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661136affe636c41c3be6dea"
+  },
+  "NameEng": "AL HALIM",
+  "NameArabic": "ٱلْحَلِيمُ",
+  "Description": "The Forbearing, patient and tolerant, delaying punishment for sins, giving time for repentance.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661136b9fe636c41c3be6dec"
+  },
+  "NameEng": "AL AZIM",
+  "NameArabic": "ٱلْعَظِيمُ",
+  "Description": "The Magnificent, magnificent and great, His grandeur and majesty are beyond imagination, the ultimate in greatness.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661136c4fe636c41c3be6dee"
+  },
+  "NameEng": "AL GHAFUR",
+  "NameArabic": "ٱلْغَفُورُ",
+  "Description": "The Forgiver and Hider of Faults, forgives sins and conceals faults, granting mercy and forgiveness to those who repent.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661136d1fe636c41c3be6df0"
+  },
+  "NameEng": "ASH SHAKUR",
+  "NameArabic": "ٱلشَّكُورُ",
+  "Description": "The Rewarder of Thankfulness, appreciates and rewards even the smallest acts of kindness and gratitude.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661136dbfe636c41c3be6df2"
+  },
+  "NameEng": "AL ALIYY",
+  "NameArabic": "ٱلْعَلِيُّ",
+  "Description": "The Most High, exalted and supreme, His greatness and loftiness are beyond comparison, the ultimate in height.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661136e6fe636c41c3be6df4"
+  },
+  "NameEng": "AL KABIR",
+  "NameArabic": "ٱلْكَبِيرُ",
+  "Description": "The Most Great, great and magnificent, His greatness and majesty are beyond comprehension, the ultimate in greatness.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661136effe636c41c3be6df6"
+  },
+  "NameEng": "AL HAFIZ",
+  "NameArabic": "ٱلْحَفِيظُ",
+  "Description": "The Preserver, preserves and protects all things, safeguarding them from harm and destruction.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661136f9fe636c41c3be6df8"
+  },
+  "NameEng": "AL MUQIT",
+  "NameArabic": "ٱلْمُقِيتُ",
+  "Description": "The Nourisher, sustainer of all, providing nourishment and sustenance to all creatures, the ultimate sustainer.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113703fe636c41c3be6dfa"
+  },
+  "NameEng": "AL HASIB",
+  "NameArabic": "ٱلْحَسِيبُ",
+  "Description": "The Reckoner, takes account of all actions, ensuring every deed is brought to light and accounted for.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113710fe636c41c3be6dfc"
+  },
+  "NameEng": "AL JALIL",
+  "NameArabic": "ٱلْجَلِيلُ",
+  "Description": "The Majestic, majestic and honorable, His majesty and grandeur are beyond comparison, the ultimate in majesty.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611371afe636c41c3be6dfe"
+  },
+  "NameEng": "AL KARIM",
+  "NameArabic": "ٱلْكَرِيمُ",
+  "Description": "The Generous, generous and bountiful, His generosity knows no bounds, the ultimate giver.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113728fe636c41c3be6e00"
+  },
+  "NameEng": "AR RAQIB",
+  "NameArabic": "ٱلرَّقِيبُ",
+  "Description": "The Watchful, observes all things, recording every deed and action, the ultimate observer.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113731fe636c41c3be6e02"
+  },
+  "NameEng": "AL MUJIB",
+  "NameArabic": "ٱلْمُجِيبُ",
+  "Description": "The Responsive, answers the prayers and supplications of those who call upon Him, the ultimate responder.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113740fe636c41c3be6e04"
+  },
+  "NameEng": "AL WASE",
+  "NameArabic": "ٱلْوَاسِعُ",
+  "Description": "The Vast, vast and unlimited, His mercy and blessings are limitless, encompassing all of creation.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611374afe636c41c3be6e06"
+  },
+  "NameEng": "AL HAKIM",
+  "NameArabic": "ٱلْحَكِيمُ",
+  "Description": "The Wise, possesses perfect wisdom, acting with wisdom and knowledge in all matters, the ultimate in wisdom.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113755fe636c41c3be6e08"
+  },
+  "NameEng": "AL WADUD",
+  "NameArabic": "ٱلْوَدُودُ",
+  "Description": "The Loving, loving and affectionate, His love encompasses all of creation, the ultimate in love.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113760fe636c41c3be6e0a"
+  },
+  "NameEng": "AL MAJEED",
+  "NameArabic": "ٱلْمَجِيدُ",
+  "Description": "The Glorious, glorious and noble, His glory and nobility are beyond comparison, the ultimate in glory.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611376cfe636c41c3be6e0c"
+  },
+  "NameEng": "AL BAITH",
+  "NameArabic": "ٱلْبَاعِثُ",
+  "Description": "The Resurrector, raises the dead to life, bringing forth new life after death, the ultimate resurrection.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113776fe636c41c3be6e0e"
+  },
+  "NameEng": "ASH SHAHID",
+  "NameArabic": "ٱلشَّهِيدُ",
+  "Description": "The Witness, witnesses all things, seeing everything that occurs, the ultimate witness.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113782fe636c41c3be6e10"
+  },
+  "NameEng": "AL HAQ",
+  "NameArabic": "ٱلْحَقُّ",
+  "Description": "The Truth, true and real in His essence, His existence and attributes are undeniable, the ultimate truth.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6611378dfe636c41c3be6e12"
+  },
+  "NameEng": "AL WAKIL",
+  "NameArabic": "ٱلْوَكِيلُ",
+  "Description": "The Trustee, entrusted with the affairs of all creation, relying on Him for all needs and desires, the ultimate trustee.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113798fe636c41c3be6e14"
+  },
+  "NameEng": "AL QAWIYY",
+  "NameArabic": "ٱلْقَوِيُّ",
+  "Description": "The Strong, possesses ultimate strength and power, His might and power are unmatched, the ultimate in strength.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661137a0fe636c41c3be6e16"
+  },
+  "NameEng": "AL MATIN",
+  "NameArabic": "ٱلْمَتِينُ",
+  "Description": "The Firm, firm and steadfast, His power and authority are unshakable, the ultimate in firmness.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661137abfe636c41c3be6e18"
+  },
+  "NameEng": "AL WALI",
+  "NameArabic": "ٱلْوَلِيُّ",
+  "Description": "The Protecting Friend, protects and guides His servants, providing them with security and support, the ultimate protector.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661137b7fe636c41c3be6e1a"
+  },
+  "NameEng": "AL HAMID",
+  "NameArabic": "ٱلْحَمِيدُ",
+  "Description": "The Praiseworthy, worthy of all praise and glory, His attributes and actions are deserving of all praise.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661137c1fe636c41c3be6e1c"
+  },
+  "NameEng": "AL MUHSI",
+  "NameArabic": "ٱلْمُحْصِي",
+  "Description": "The Accounter, counts and numbers all things, recording every detail and aspect, the ultimate counter.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661137cafe636c41c3be6e1e"
+  },
+  "NameEng": "AL MUBDI",
+  "NameArabic": "ٱلْمُبْدِئُ",
+  "Description": "The Originator, initiates and begins all creation, bringing forth existence from nothingness.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661137d5fe636c41c3be6e20"
+  },
+  "NameEng": "AL MU’ID",
+  "NameArabic": "ٱلْمُعِيدُ",
+  "Description": "The Restorer, restores and returns all things to their original state, bringing back that which has passed away.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661137e0fe636c41c3be6e22"
+  },
+  "NameEng": "AL MUHYI",
+  "NameArabic": "ٱلْمُحْيِي",
+  "Description": "The Giver of Life, grants life to all creatures, bringing them into existence from nothingness.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661137effe636c41c3be6e24"
+  },
+  "NameEng": "AL MUMIT",
+  "NameArabic": "ٱلْمُمِيتُ",
+  "Description": "The Bringer of Death, causes all things to die, ending their existence in this world.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661137fcfe636c41c3be6e26"
+  },
+  "NameEng": "AL HAYY",
+  "NameArabic": "ٱلْحَيُّ",
+  "Description": "The Ever-Living, possesses eternal life, His existence is everlasting and unending.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66113804fe636c41c3be6e28"
+  },
+  "NameEng": "AL QAYYUM",
+  "NameArabic": "ٱلْقَيُّومُ",
+  "Description": "The Self-Existing, sustains and maintains all things, ensuring their continued existence and well-being.",
+  "__v": 0
+}]

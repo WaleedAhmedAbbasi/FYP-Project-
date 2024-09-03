@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "66254c290429d2b63cdcf081"
+  },
+  "name": "Before eating",
+  "ayat": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+  "eng": "In the name of Allah, the Most Gracious, the Most Merciful.",
+  "urdu": "الله کے نام سے، جو بڑا مہربان، نہایت رحم والا ہے۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66254c360429d2b63cdcf083"
+  },
+  "name": "After eating",
+  "ayat": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِّنِّي وَلَا قُوَّةٍ",
+  "eng": "All praise is due to Allah who has given me this food and sustained me with it, without any strength or power on my part.",
+  "urdu": "الله کا شکر ہے، جس نے مجھے یہ خوراک دی اور مجھے اس سے روزی دی، میرے ذاتی طاقت اور قوت کے بغیر۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66254c450429d2b63cdcf085"
+  },
+  "name": "Before sleeping",
+  "ayat": "اللهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا",
+  "eng": "O Allah, with Your name I die and I live.",
+  "urdu": "اللهم! تیرے نام کے ساتھ میں مرتا ہوں اور جیتا ہوں۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66254c510429d2b63cdcf087"
+  },
+  "name": "Upon waking up",
+  "ayat": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+  "eng": "All praise is due to Allah who gave us life after having taken it from us and unto Him is the resurrection.",
+  "urdu": "الله کا شکر ہے، جس نے ہمیں زندگی دی، ہمیں وہ زندگی دی جس کو وہ ہم سے چھین کر لے گیا تھا، اور ہر شخص کو اسی کی طرف لوٹ کر جانا ہے۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66254c5c0429d2b63cdcf089"
+  },
+  "name": "When leaving home",
+  "ayat": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+  "eng": "In the name of Allah, I trust in Allah, there is no power nor might except with Allah.",
+  "urdu": "اللہ کے نام سے، میں نے اللہ پر بھروسہ کیا، بغیر اللہ کی مدد کے کوئی طاقت اور موجود نہیں ہے۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66254c6e0429d2b63cdcf08b"
+  },
+  "name": "When entering home",
+  "ayat": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+  "eng": "In the name of Allah we enter, and in the name of Allah we leave, and upon our Lord we rely.",
+  "urdu": "اللہ کے نام سے ہم داخل ہوتے ہیں، اور اللہ کے نام سے ہم خارج ہوتے ہیں، اور ہمارے رب پر ہم بھروسہ کرتے ہیں۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66254c7a0429d2b63cdcf08d"
+  },
+  "name": "Before entering the restroom",
+  "ayat": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ",
+  "eng": "O Allah, I seek refuge in You from evil and wicked things.",
+  "urdu": "اللہم! میں تیری پناہ مانگتا ہوں برائیوں اور گنہگاریوں سے۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66254c860429d2b63cdcf08f"
+  },
+  "name": "After leaving the restroom",
+  "ayat": "غُفْرَانَكَ",
+  "eng": "I seek Your forgiveness.",
+  "urdu": "میں تیرے معافی مانگتا ہوں۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66254c960429d2b63cdcf091"
+  },
+  "name": "When feeling distress",
+  "ayat": "لَا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+  "eng": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.",
+  "urdu": "تیرے سوا کوئی معبود نہیں، تو پاک ہے، میں ظالموں میں سے ہوں۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66254ca40429d2b63cdcf093"
+  },
+  "name": "When starting a journey",
+  "ayat": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَـٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+  "eng": "Exalted is He who has subjected this to us, and we could not have [otherwise] subdued it. And indeed we, to our Lord, will [surely] return.",
+  "urdu": "جو ہمیں اس پر حکومت دی ہے، پاک ہے، ہم اسے قبول کرنے والے نہیں تھے، اور ہم سب اپنے رب کی طرف لوٹ کر جانے والے ہیں۔",
+  "__v": 0
+}]

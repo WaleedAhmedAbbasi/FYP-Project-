@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "660f02c7a0231e3275f84006"
+  },
+  "Name": "Black cumin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f02daa0231e3275f84008"
+  },
+  "Name": "Unilateral",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f02e8a0231e3275f8400a"
+  },
+  "Name": "Bilateral",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f030ea0231e3275f8400c"
+  },
+  "Name": "Snake Bite/Scorpion Bite",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f031ca0231e3275f8400e"
+  },
+  "Name": "Evil eye",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f032ca0231e3275f84010"
+  },
+  "Name": "Suffering pain",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f0337a0231e3275f84012"
+  },
+  "Name": "fever",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f035ba0231e3275f84014"
+  },
+  "Name": "Diarrhea",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f0384a0231e3275f84016"
+  },
+  "Name": "Eye disease",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f03bba0231e3275f84018"
+  },
+  "Name": "Stop bleeding",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f03dda0231e3275f8401a"
+  },
+  "Name": "Throat or tonsil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f03f3a0231e3275f8401c"
+  },
+  "Name": "Poison treatment",
+  "__v": 0
+}]

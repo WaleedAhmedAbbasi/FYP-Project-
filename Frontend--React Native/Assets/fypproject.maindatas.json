@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "660f083edf791946a40bfec0"
+  },
+  "Name": "Black cumin",
+  "Ref": "Sahih al-Bukhari 5688",
+  "Ayat": "فِي الْحَبَّةِ السَّوْدَاءِ شِفَاءٌ مِنْ كُلِّ دَاءٍ إِلاَّ السَّامَ ",
+  "Eng": "I heard Allah's Messenger (ﷺ) saying, There is healing in black cumin for all diseases except death.",
+  "Urdu": " انہوں نے کہا کہ مجھے ابوسلمہ اور سعید بن مسیب نے خبر دی اور انہیں حضرت ابوہریرہ رضی اللہ عنہ نے خبر دی ، انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ، آپ نے فرمایا کہ سیاہ دانوں میں ہر بیماری سے شفاء ہے سوا سام کے ۔ ابن شہاب نے کہا کہ سام موت ہے اور ” سیاہ دانہ “ کلونجی کو کہتے ہیں ۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f0c53df791946a40bfec4"
+  },
+  "Name": "Unilateral",
+  "Ref": "Sahih al-Bukhari 5700, 5701",
+  "Ayat": "حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ هِشَامٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، احْتَجَمَ النَّبِيُّ صلى الله عليه وسلم فِي رَأْسِهِ وَهْوَ مُحْرِمٌ مِنْ وَجَعٍ كَانَ بِهِ بِمَاءٍ يُقَالُ لَهُ لَحْىُ جَمَلٍ‏.‏ وَقَالَ مُحَمَّدُ بْنُ سَوَاءٍ أَخْبَرَنَا هِشَامٌ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم احْتَجَمَ وَهْوَ مُحْرِمٌ فِي رَأْسِهِ مِنْ شَقِيقَةٍ كَانَتْ بِهِ‏.‏",
+  "Eng": "The Prophet (ﷺ) was cupped on his head for an ailment he was suffering from while he was in a state of Ihram. at a water place called Lahl Jamal. Ibn `Abbas further said: Allah s Apostle was cupped on his head for unilateral headache while he was in a state of Ihram .",
+  "Urdu": "نبی کریم صلی اللہ علیہ وسلم نے حالت احرام میں اپنے سر میں پچھنا لگوایا۔ آدھے سر کے درد کی وجہ سے جو آپ کو ہو گیا تھا۔ اس وقت انہوں نے لحی جمل نامی پانی کے گھاٹ پر ہوا جس سے پانی کی وجہ سے ہوا۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f0debdf791946a40bfec6"
+  },
+  "Name": "Bilateral",
+  "Ref": " Sahih al-Bukhari 5702",
+  "Ayat": "إِنْ كَانَ فِي شَىْءٍ مِنْ أَدْوِيَتِكُمْ خَيْرٌ فَفِي شَرْبَةِ عَسَلٍ أَوْ شَرْطَةِ مِحْجَمٍ أَوْ لَذْعَةٍ مِنْ نَارٍ، وَمَا أُحِبُّ أَنْ أَكْتَوِيَ",
+  "Eng": "I heard the Prophet (ﷺ) saying, If there is any good in your medicines, then it is in a gulp of honey, a cupping operation, or branding (cauterization), but I do not like to be (cauterized) branded.",
+  "Urdu": "آپ نے فرمایا کہ اگر تمہاری دوائیوں میں کوئی بھلائی ہے تو شہد کے شربت میں ہے اور پچھنا لگوانے میں ہے اور آگ سے داغنے میں ہے لیکن میں آگ سے داغ کر علاج کو پسند نہیں کرتا ۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f0fb5df791946a40bfec8"
+  },
+  "Name": "Snake Bite/Scorpion Bite",
+  "Ref": "Sahih al-Bukhari 5741",
+  "Ayat": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا سُلَيْمَانُ الشَّيْبَانِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الأَسْوَدِ، عَنْ أَبِيهِ، قَالَ سَأَلْتُ عَائِشَةَ عَنِ الرُّقْيَةِ، مِنَ الْحُمَةِ فَقَالَتْ رَخَّصَ النَّبِيُّ صلى الله عليه وسلم الرُّقْيَةَ مِنْ كُلِّ ذِي حُمَةٍ‏",
+  "Eng": "I asked `Aisha about treating poisonous stings (a snake-bite or a scorpion sting) with a Ruqya. She said, The Prophet (ﷺ) allowed the treatment of poisonous sting with Ruqya.",
+  "Urdu": "یں نے حضرت عائشہ رضی اللہ عنہا سے زہریلے جانور کے کاٹنے میں جھاڑ نے کے متعلق پوچھا تو انہوں نے کہا کہ ہر زہریلے جانور کے کاٹنے میں جھاڑنے کی نبی کریم صلی اللہ علیہ وسلم نے اجازت دی ہے ۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f110adf791946a40bfeca"
+  },
+  "Name": "Evil eye",
+  "Ref": "Sahih al-Bukhari 5738",
+  "Ayat": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، قَالَ حَدَّثَنِي مَعْبَدُ بْنُ خَالِدٍ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ شَدَّادٍ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ أَمَرَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم أَوْ أَمَرَ أَنْ يُسْتَرْقَى مِنَ الْعَيْنِ‏",
+  "Eng": "The Prophet (ﷺ) ordered me or somebody else to do Ruqya (if there was danger) from an evil eye.",
+  "Urdu": "رسول اللہ صلی اللہ علیہ وسلم نے مجھے حکم دیا یا ( آپ نے اس طرح بیان کیا کہ آنحضرت صلی اللہ علیہ وسلم نے ) حکم دیا کہ نظر بد لگ جانے پر معوذتین سے دم کر لیا جائے ۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f1237df791946a40bfecc"
+  },
+  "Name": "Suffering pain",
+  "Ref": "Sunan Ibn Majah 3522",
+  "Ayat": "اجْعَلْ يَدَكَ الْيُمْنَى عَلَيْهِ وَقُلْ بِسْمِ اللَّهِ أَعُوذُ بِعِزَّةِ اللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ سَبْعَ مَرَّاتٍ‏",
+  "Eng": "I came to the Prophet (ﷺ) and I was suffering pain that was killing me. The Prophet (ﷺ) said to me: ‘Put your right hand on it and say: Bismillah, a’udhu bi’izzatil-lahi wa qudratihi min sharri ma ajidu wa uhadhiru. (In the Name of Allah, I seek refuge in the might and power of Allah from the evil of what I feel and what I fear),” seven times.’ I said that, and Allah healed me.",
+  "Urdu": "میں رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور مجھے درد ہو رہا تھا جو مجھے مار رہا تھا۔ رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے فرمایا: اپنا دایاں ہاتھ اس پر رکھو اور کہو: بسم اللہ، اَعُوذُ بِعَزَّلَ اللَّهِ وَقَدْرَتِیْ مِن شَرِیْ مَا اجِدُوْاً (اللہ کے نام کے ساتھ، میں اللہ کی طاقت اور قدرت کی پناہ مانگتا ہوں اس کے شر سے جو میں محسوس کرتا ہوں اور جس سے میں ڈرتا ہوں)۔‘‘ میں نے سات بار یہ کہا اور اللہ نے مجھے شفا دی۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f132adf791946a40bfece"
+  },
+  "Name": "fever",
+  "Ref": "Sahih al-Bukhari 5725",
+  "Ayat": "الْحُمَّى مِنْ فَيْحِ جَهَنَّمَ فَابْرُدُوهَا بِالْمَاءِ",
+  "Eng": "The Prophet (ﷺ) said, 'Fever is from the heat of Hell, so abate fever with water.'",
+  "Urdu": "نبی کریم صلی اللہ علیہ وسلم نے فرمایا: بخار جہنم کی بھاپ میں سے ہے، اس لیے اسے پانی سے ٹھنڈا کرو۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f1424df791946a40bfed0"
+  },
+  "Name": "Diarrhea",
+  "Ref": "Sahih al-Bukhari 5716",
+  "Ayat": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَبِي الْمُتَوَكِّلِ، عَنْ أَبِي سَعِيدٍ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ إِنَّ أَخِي اسْتَطْلَقَ بَطْنُهُ‏.‏ فَقَالَ ‏'‏ اسْقِهِ عَسَلاً ‏'‏‏.‏ فَسَقَاهُ‏.‏ فَقَالَ إِنِّي سَقَيْتُهُ فَلَمْ يَزِدْهُ إِلاَّ اسْتِطْلاَقًا‏.‏ فَقَالَ ‏'‏ صَدَقَ اللَّهُ وَكَذَبَ بَطْنُ أَخِيكَ ‏'‏‏.‏ تَابَعَهُ النَّضْرُ عَنْ شُعْبَةَ",
+  "Eng": "A man came to the prophet and said, 'My brother has got loose motions. The Prophet (ﷺ) said, Let him drink honey.' The man again (came) and said, 'I made him drink (honey) but that made him worse.' The Prophet (ﷺ) said, 'Allah has said the Truth, and the `Abdomen of your brother has told a lie.'",
+  "Urdu": "ایک صاحب رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور عرض کیا کہ میرے بھائی کو دست آ رہے ہیں آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ انہیں شہد پلاؤ۔ انہوں نے پلایا اور پھر واپس آ کر کہا کہ میں نے انہیں شہد پلایا لیکن ان کے دستوں میں کوئی کمی نہیں ہوئی۔ آپ نے اس پر فرمایا کہ اللہ تعالیٰ نے سچ فرمایا اور تمہارے بھائی کا پیٹ جھوٹا ہے (آخر شہد ہی سے اسے شفاء ہوئی)۔ محمد بن جعفر کے ساتھ اس حدیث کو نضر بن شمیل نے بھی شعبہ سے روایت کیا ہے۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f1533df791946a40bfed2"
+  },
+  "Name": "Eye disease",
+  "Ref": "Sahih al-Bukhari 5708",
+  "Ayat": "الْكَمْأَةُ مِنَ الْمَنِّ، وَمَاؤُهَا شِفَاءٌ لِلْعَيْنِ",
+  "Eng": "I heard the Prophet (ﷺ) saying, 'Truffles are like Manna (i.e. they grow naturally without man's care) and their water heals eye diseases.'",
+  "Urdu": "میں نے نبی کریم صلی اللہ علیہ وسلم سے سنا ، آنحضرت صلی اللہ علیہ وسلم نے فرمایا کہ کھنبی من میں سے ہے اور اس کا پانی آنکھ کے لیے شفاء ہے ۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f1618df791946a40bfed4"
+  },
+  "Name": "Stop bleeding",
+  "Ref": "Sahih al-Bukhari 5722",
+  "Ayat": "حَدَّثَنِي سَعِيدُ بْنُ عُفَيْرٍ، حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ الْقَارِيُّ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، قَالَ لَمَّا كُسِرَتْ عَلَى رَأْسِ رَسُولِ اللَّهِ صلى الله عليه وسلم الْبَيْضَةُ، وَأُدْمِيَ وَجْهُهُ، وَكُسِرَتْ رَبَاعِيَتُهُ، وَكَانَ عَلِيٌّ يَخْتَلِفُ بِالْمَاءِ فِي الْمِجَنِّ، وَجَاءَتْ فَاطِمَةُ تَغْسِلُ عَنْ وَجْهِهِ الدَّمَ، فَلَمَّا رَأَتْ فَاطِمَةُ ـ عَلَيْهَا السَّلاَمُ ـ الدَّمَ يَزِيدُ عَلَى الْمَاءِ كَثْرَةً عَمَدَتْ إِلَى حَصِيرٍ فَأَحْرَقَتْهَا وَأَلْصَقَتْهَا عَلَى جُرْحِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَرَقَأَ الدَّمُ",
+  "Eng": "When the helmet broke on the head of the Prophet (ﷺ) and his face became covered with blood and his incisor tooth broke (i.e. during the battle of Uhud), `Ali used to bring water in his shield while Fatima was washing the blood off his face. When Fatima saw that the bleeding increased because of the water, she took a mat (of palm leaves), burnt it, and stuck it (the burnt ashes) on the wound of Allah's Apostle, whereupon the bleeding stopped.",
+  "Urdu": "جب رسول اللہ صلی اللہ علیہ وسلم کے سر پر ( احد کے دن ) خود ٹوٹ گیا آپ کا مبارک چہرہ خون آلود ہو گیا اور سامنے کے دانت ٹوٹ گئے تو حضرت علی رضی اللہ عنہ ڈھال بھربھر کر پانی لاتے تھے اور حضرت فاطمہ رضی اللہ عنہا آپ کے چہرہ مبارک سے خون دھو رہی تھیں ۔ پھر جب حضرت فاطمہ رضی اللہ عنہا نے دیکھا کہ خون پانی سے بھی زیادہ آ رہا ہے تو انہوں نے ایک بوریا جلا کر رسول اللہ صلی اللہ علیہ وسلم کے زخموں پر لگایا اور اس سے خون رکا ۔",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f178bdf791946a40bfed6"
+  },
+  "Name": "Throat or tonsil",
+  "Ref": "Sahih al-Bukhari 5713",
+  "Ayat": "عَلَى مَا تَدْغَرْنَ أَوْلاَدَكُنَّ بِهَذَا الْعِلاَقِ عَلَيْكُنَّ بِهَذَا الْعُودِ الْهِنْدِيِّ، فَإِنَّ فِيهِ سَبْعَةَ أَشْفِيَةٍ، مِنْهَا ذَاتُ الْجَنْبِ يُسْعَطُ مِنَ الْعُذْرَةِ، وَيُلَدُّ مِنْ ذَاتِ الْجَنْبِ",
+  "Eng": "I went to Allah's Messenger (ﷺ) along with a a son of mine whose palate and tonsils I had pressed with my finger as a treatment for a (throat and tonsil) disease. The Prophet (ﷺ) said, 'Why do you pain your children by pressing their throats! Use Ud Al-Hindi (certain Indian incense) for it cures seven diseases, one of which is pleurisy. It is used as a snuff for treating throat and tonsil disease and it is inserted into one side of the mouth of one suffering from pleurisy.'",
+  "Urdu": "میں اپنے ایک بیٹے کے ساتھ رسول اللہ صلی اللہ علیہ وسلم کے پاس گیا جس کی پالٹ اور ٹانسل میں میں نے اپنی انگلی سے دبائی تھی جیسے گلے کی بیماری کا علاج۔ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا، 'اپنے بچوں کو کیوں تکلیف دیتے ہو ان کے گلے دبا کر! Ud Al-Hindi (کچھ ہندوستانی خوشبودار کی لکڑی) استعمال کرو کیونکہ اس میں سات بیماریوں کا علاج ہے، ان میں سے ایک آنفلوانزا ہے۔ یہ گلے اور ٹانسل کی بیماری کے علاج کے لیے نسوار کے طور پر استعمال ہوتا ہے اور یہ ایک طرف کے منہ میں ڈالا جاتا ہے جب کوئی آنفلوانزا کا شکار ہو۔'",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f18b0df791946a40bfed9"
+  },
+  "Name": "Poison treatment",
+  "Ref": "Sahih al-Bukhari 5719, 5720, 5721",
+  "Ayat": "حَدَّثَنَا عَارِمٌ، حَدَّثَنَا حَمَّادٌ، قَالَ قُرِئَ عَلَى أَيُّوبَ مِنْ كُتُبِ أَبِي قِلاَبَةَ، مِنْهُ مَا حَدَّثَ بِهِ وَمِنْهُ مَا قُرِئَ عَلَيْهِ، وَكَانَ هَذَا فِي الْكِتَابِ عَنْ أَنَسٍ أَنَّ أَبَا طَلْحَةَ وَأَنَسَ بْنَ النَّضْرِ كَوَيَاهُ، وَكَوَاهُ أَبُو طَلْحَةَ بِيَدِهِ‏.‏ وَقَالَ عَبَّادُ بْنُ مَنْصُورٍ عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أَذِنَ رَسُولُ اللَّهِ صلى الله عليه وسلم لأَهْلِ بَيْتٍ مِنَ الأَنْصَارِ أَنْ يَرْقُوا مِنَ الْحُمَةِ وَالأُذُنِ‏.‏ قَالَ أَنَسٌ كُوِيتُ مِنْ ذَاتِ الْجَنْبِ وَرَسُولُ اللَّهِ صلى الله عليه وسلم حَىٌّ، وَشَهِدَنِي أَبُو طَلْحَةَ وَأَنَسُ بْنُ النَّضْرِ وَزَيْدُ بْنُ ثَابِتٍ، وَأَبُو طَلْحَةَ كَوَانِي",
+  "Eng": "Allah's Messenger (ﷺ) allowed one of the Ansar families to treat persons who have taken poison and also who are suffering from ear ailment with Ruqya. Anas added: I got myself branded (cauterized) for pleurisy, when Allah's Messenger (ﷺ) was still alive. Abu Talha, Anas bin An-Nadr, and Zaid bin Thabit witnessed that, and it was Abu Talha who branded (cauterized) me.",
+  "Urdu": "اللہ کے رسول صلی اللہ علیہ وسلم نے انصار کے ایک خاندان کو اجازت دی تھی کہ جو لوگ زہر کھا چکے ہیں یا کان کی بیماری سے جھاڑا ہے ان کا علاج رقیہ کے ذریعے کیا جائے ۔ انس رضی اللہ عنہ نے بیان کیا کہ جب میرے آپ صلی اللہ علیہ وسلم زندہ تھے تو میں نے خود کو پلاسریزی کے لیے داغوں کیے تھے اور ابوطلحہ ، انس بن نضر اور زید بن ثابت رضی اللہ عنہم نے میرے داغوں کو دیکھا تھا اور داغا کرنے والا ابو طلحہ رضی اللہ عنہ تھے۔",
+  "__v": 0
+}]
